@@ -1,0 +1,1 @@
+HTML Email: Transactional based on Pandora's transaction email from https://files.reallygoodemails.com/emails/your-pandora-premium-cancellation.png
